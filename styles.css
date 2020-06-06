@@ -9,3 +9,8 @@ padding: 0;
   background: #ddd;
   padding:1em;
 }
+
+.card {
+  margin: 30px;
+  padding: 20px 40px 40px;
+}
